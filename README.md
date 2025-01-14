@@ -1,7 +1,8 @@
 <!-- Netflix Gpt -->
 -npx create-react-app
 - configure tailwindcss
-
+- Build Header
+- Login Form
 <!-- Features -->
 -Login/SignIn
    - SignIn/signp Form
