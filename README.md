@@ -2,7 +2,20 @@
 -npx create-react-app
 - configure tailwindcss
 - Build Header
+-Routing of app 
 - Login Form
+-signup form
+-Form validation
+- useRef hook 
+-Firebase Authentication 
+- deploying our app to production
+- Create signup user Acoount in firebase
+-Implement SignIn User API
+- created our redux store (userSlice)
+-SignIn/SignUp> Redux store will update with user credentials
+-Implemented signout API 
+-Update Profile
+-
 <!-- Features -->
 -Login/SignIn
    - SignIn/signp Form
